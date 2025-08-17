@@ -1,0 +1,26 @@
+[project]
+name = "frugal-rationality"
+version = "0.1.0"
+description = "meta-cognitive POMDP solver"
+authors = [
+    {name = "Itzel Coral",email = "ico1@rice.edu"}
+]
+license = {text = "MIT"}
+readme = "README.md"
+requires-python = "3.9"
+dependencies = [
+    "tensorflow==2.19.1",
+    "keras==3.10.0",
+    "numpy==2.0.2",
+    "matplotlib==3.9.4",
+    "seaborn==0.13.2",
+    "numdifftools==0.9.41",
+    "scipy==1.13.1",
+    "pandas==2.3.1",
+]
+
+
+
+[build-system]
+requires = ["poetry-core>=2.0.0,<3.0.0"]
+build-backend = "poetry.core.masonry.api"

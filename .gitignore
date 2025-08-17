@@ -1,0 +1,12 @@
+__pycache__/
+*.py[cod]
+*.log
+.env
+venv/
+.idea/
+
+# Project exclude paths
+/.venv/
+
+# System files
+.DS_Store
