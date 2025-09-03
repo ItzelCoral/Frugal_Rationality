@@ -1,8 +1,7 @@
 # Frugal Inference for Control
 
-**Balancing task performance, motion effort, and information usage in partially observed environments where:**
+**Balancing task performance, motion effort, and information use in partially observed environments where:**
 
-* the information distilled from previous evidence is considered a resource the agent must manage efficiently
 * inference is a meta-regulated process rather than a fixed subroutine
 * state and action spaces are continuous
 * transitions are stochastic linear dynamics corrupted by Gaussian noise
