@@ -5,14 +5,28 @@
 * inference is a meta-regulated process rather than a fixed subroutine
 * state and action spaces are continuous
 * transitions are stochastic linear dynamics corrupted by Gaussian noise
-  
+
 ---
 ## Features
 - 📦 Python package `frugal_rationality` for easy reuse.
 - 📓 Example Jupyter notebooks to demonstrate usage.
 - 🧪 Ready for experimentation and extension.
 ---
+## Associated Research
+This repository accompanies the paper [**Frugal inference for control**](https://arxiv.org/abs/2406.14427), arXiv preprint.  
 
+If you use this code, please cite our work:
+
+```bibtex
+@article{olivoscastillo2025frugalinferencecontrol,
+  title={Frugal inference for control},
+  author={Olivos-Castillo, Itzel and Schrater, Paul and Pitkow, Xaq},
+  journal={ArXiv},
+  pages={arXiv--2406},
+  year={2025}
+}
+```````
+---
 ## Quick Start
 ### 1. Clone the repository
 ```bash
