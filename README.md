@@ -1,10 +1,10 @@
-# Frugal Inference for Control
+# Frugal Inference and Control
 
 **Balancing task performance, motion effort, and information use in partially observed environments where:**
 
-* inference is a meta-regulated process rather than a fixed subroutine
+* inference is a regulated process rather than a fixed subroutine
 * state and action spaces are continuous
-* transitions are stochastic linear dynamics corrupted by Gaussian noise
+* dynamics can be locally approximated by a linear-Gaussian process
 
 ---
 ## Features
